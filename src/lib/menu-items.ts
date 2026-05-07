@@ -1,0 +1,33 @@
+import {
+  Baby,
+  BookAudio,
+  BookHeart,
+  ClipboardList,
+  HeartPulse,
+  Hospital,
+  LayoutGrid,
+  Leaf,
+  Map,
+  Pill,
+  Scan,
+  ScrollText,
+  AlertTriangle,
+  Video,
+} from 'lucide-react';
+
+export const menuItems = [
+  { href: '/', label: 'Dashboard', icon: LayoutGrid },
+  { href: '/symptom-checker', label: 'Symptom Checker', icon: HeartPulse },
+  { href: '/visual-scanner', label: 'Visual Scanner', icon: Scan },
+  { href: '/video-consult', label: 'Video Consult', icon: Video },
+  { href: '/plant-identifier', label: 'Herbal Identifier', icon: Leaf },
+  { href: '/pharmacy-tracker', label: 'Pharmacy Tracker', icon: Pill },
+  { href: '/maternal-health', label: 'Maternal Health', icon: Baby },
+  { href: '/pregnancy-warning', label: 'Pregnancy Alerts', icon: AlertTriangle },
+  { href: '/health-katha', label: 'Health Katha', icon: BookAudio },
+  { href: '/knowledge-copilot', label: 'Knowledge Co-Pilot', icon: BookHeart },
+  { href: '/outbreak-prediction', label: 'Outbreak Prediction', icon: Map },
+  { href: '/asha-dashboard', label: 'ASHA Dashboard', icon: ClipboardList },
+  { href: '/facility-locator', label: 'Hospital/Clinic', icon: Hospital },
+  { href: '/schemes', label: 'Health Schemes', icon: ScrollText },
+];

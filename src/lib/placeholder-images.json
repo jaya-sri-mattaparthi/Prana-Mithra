@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "prana-mithra-logo",
+      "description": "Healthcare worker's hands holding a seedling.",
+      "imageUrl": "https://t3.ftcdn.net/jpg/10/04/34/30/360_F_1004343068_m3KYzupYgYCaj3R1rRhSxceb8UkaM76W.jpg",
+      "imageHint": "caring hands"
+    },
+    {
+      "id": "maternal-health-banner",
+      "description": "A happy mother holding her baby.",
+      "imageUrl": "https://images.unsplash.com/photo-1582486225644-aeacf6aa0b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtb3RoZXIlMjBiYWJ5fGVufDB8fHx8MTc1OTQzNzk2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mother baby"
+    },
+    {
+      "id": "asha-worker",
+      "description": "An ASHA worker with a patient.",
+      "imageUrl": "https://images.unsplash.com/photo-1666886573452-9dc8ce8f5cc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxoZWFsdGglMjB3b3JrZXJ8ZW58MHx8fHwxNzU5NDYxMzgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "health worker"
+    },
+    {
+      "id": "hospital-facility",
+      "description": "Exterior of a hospital.",
+      "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxob3NwaXRhbCUyMGJ1aWxkaW5nfGVufDB8fHx8MTc1OTQ2NjE3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hospital building"
+    },
+    {
+      "id": "health-scheme-doc",
+      "description": "A government document.",
+      "imageUrl": "https://images.unsplash.com/photo-1715522594847-67c90b5b8667?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkb2N1bWVudCUyMHBhcGVyfGVufDB8fHx8MTc1OTM4ODAyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "document paper"
+    },
+    {
+      "id": "katha-storytelling",
+      "description": "An elder person telling stories to children in a village setting.",
+      "imageUrl": "https://images.unsplash.com/photo-1615592602926-a3bfacbc1cbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzdG9yeXRlbGxpbmclMjBjaGlsZHJlbnxlbnwwfHx8fDE3NTk1ODM3ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "storytelling children"
+    },
+    {
+      "id": "katha-vaccination",
+      "description": "Illustration of a shield protecting a child.",
+      "imageUrl": "https://images.unsplash.com/photo-1654683859167-1ad63ad6891f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx2YWNjaW5hdGlvbiUyMHNoaWVsZHxlbnwwfHx8fDE3NTk1ODM3ODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vaccination shield"
+    },
+    {
+      "id": "katha-hygiene",
+      "description": "Children washing their hands with soap and water.",
+      "imageUrl": "https://images.unsplash.com/photo-1591610160225-861405867ba3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoYW5kJTIwd2FzaGluZ3xlbnwwfHx8fDE3NTk1ODM3ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hand washing"
+    },
+    {
+      "id": "katha-malaria",
+      "description": "A mosquito net over a bed in a rural home.",
+      "imageUrl": "https://images.unsplash.com/photo-1627829631879-5b6e726cb57c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb3NxdWl0byUyMG5ldHxlbnwwfHx8fDE3NTk1ODM3ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mosquito net"
+    },
+    {
+      "id": "video-consult-banner",
+      "description": "Doctor consulting a patient remotely via video call on a tablet.",
+      "imageUrl": "https://images.unsplash.com/photo-1585242479216-125016c3102d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx2aWRlbyUyMGRvY3RvcnxlbnwwfHx8fDE3NTk3MzI1MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "video doctor"
+    }
+  ]
+}
