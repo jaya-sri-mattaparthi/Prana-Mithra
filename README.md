@@ -131,6 +131,10 @@ src/app/pregnancy-warning/actions.ts
 
 Predicts possible disease outbreaks using local health data.
 
+## Screenshot
+<img width="1891" height="856" alt="image" src="https://github.com/user-attachments/assets/ff9727da-ec3f-47f6-b587-641bfc520d58" />
+<img width="1858" height="865" alt="image" src="https://github.com/user-attachments/assets/545512dd-dce4-4446-b387-398c4a4cad2e" />
+
 ### Features
 - Disease trend analysis
 - Community heatmap concepts
